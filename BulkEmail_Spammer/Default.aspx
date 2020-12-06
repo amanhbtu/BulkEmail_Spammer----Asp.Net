@@ -13,7 +13,7 @@
             <input id="txtnofemails" runat="server" placeholder="Number of Emails" type="number"/><br/>
             <input id="txtsub" runat="server" placeholder="Subject"/><br/>
             <input id="txtmsg" runat="server" placeholder="Message" type="text"/><br/>
-            <asp:Button ID="btnAction" runat="server" Text="Go" OnClick="btnAction_Click"/>
+            <asp:Button ID="btnAction" runat="server" Text="Go" OnClick="btnAction_Click" />
         </div>
     </form>
 </body>
